@@ -1,0 +1,13 @@
+{
+  "name": "juris-tati-marketplace",
+  "owner": {
+    "name": "Tati"
+  },
+  "plugins": [
+    {
+      "name": "juris-adv-os",
+      "source": "./juris-adv-os",
+      "description": "Buscador e validador de jurisprudencia (versao corrigida v0.2.0 — auditoria tecnica). Busca em portais oficiais, valida cada link via fetch real e audita pertinencia + vigencia do precedente antes da citacao em peca."
+    }
+  ]
+}
