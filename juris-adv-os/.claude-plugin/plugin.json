@@ -1,0 +1,8 @@
+{
+  "name": "juris-adv-os",
+  "version": "0.2.0",
+  "description": "Buscador e validador de jurisprudencia para advogados. Pesquisa em portais oficiais (STF, STJ, TNU, TRFs, TJs) e agregadores, retorna cada citacao com link da fonte, valida automaticamente via fetch da URL e audita o nexo de pertinencia entre o precedente e a tese antes do uso na peca. Anti-halucinacao por design: nenhuma citacao recebe selo de validada sem confirmacao via fetch real da fonte, e nenhuma falha de acesso do ambiente e confundida com citacao inexistente.",
+  "author": {
+    "name": "Sbroggio Advocacia & IA Combativa"
+  }
+}
